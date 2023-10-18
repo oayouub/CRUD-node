@@ -13,15 +13,15 @@ npm install
 
 ### Démarrage de l'application
 Pour démarrer l'application, exécutez la commande suivante :
-npm start
+> npm start
 
 L'application sera exécutée sur le port 3000 par défaut. Vous pouvez modifier le port en définissant la variable d'environnement PORT.
 
 ### 3 dépendances supplémentaires sont disponibles:
 
-* dotenv: isolée des variables d'environnement et les gardés secretes.
+- dotenv: isolée des variables d'environnement et les gardés secretes.
 
-* jest : pour exécuter des tests unitaires, exécutez la commande suivante :
+- jest : pour exécuter des tests unitaires, exécutez la commande suivante :
 npm test
 
-* passport: authentication middleware for Nodejs
+- passport: authentication middleware for Nodejs
