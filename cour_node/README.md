@@ -2,10 +2,10 @@
 ## Cette application est un CRUD en Nodejs
 
 ### depandances : 
-* Express: framework web pour Nodejs
-* Mongoose: un ODM pour MongoDB
-* Bcrypt: pour encrypter des mots de passe
-* JSON web token: creer et utiliser des tokens d'authentification
+- Express: framework web pour Nodejs
+- Mongoose: un ODM pour MongoDB
+- Bcrypt: pour encrypter des mots de passe
+- JSON web token: creer et utiliser des tokens d'authentification
 
 ### Installation:
 Pour installer l'application, clonez le repo et exécutez la commande suivante :
