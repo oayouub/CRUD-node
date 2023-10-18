@@ -30,6 +30,8 @@ L'application sera exécutée sur le port 3000 par défaut. Vous pouvez modifier
 - dotenv: isolée des variables d'environnement et les gardés secretes.
 
 - jest : pour exécuter des tests unitaires, exécutez la commande suivante :
+```
 npm test
+```
 
 - passport: authentication middleware for Nodejs
