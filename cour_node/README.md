@@ -9,7 +9,9 @@
 
 ### Installation:
 Pour installer l'application, clonez le repo et exécutez la commande suivante :
-`npm install`
+```
+npm install
+```
 
 ### Démarrage de l'application
 Pour démarrer l'application, exécutez la commande suivante :
