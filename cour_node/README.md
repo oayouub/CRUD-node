@@ -1,7 +1,7 @@
 # CRUD-node
-Cette application est un CRUD en Nodejs
+##Cette application est un CRUD en Nodejs
 
-depandances : 
+###depandances : 
 Express: framework web pour Nodejs
 Mongoose: un ODM pour MongoDB
 Bcrypt: pour encrypter des mots de passe
