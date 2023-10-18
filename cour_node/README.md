@@ -15,7 +15,9 @@ npm install
 
 ### Démarrage de l'application
 Pour démarrer l'application, exécutez la commande suivante :
-`npm start`
+```
+npm start
+```
 
 L'application sera exécutée sur le port 3000 par défaut. Vous pouvez modifier le port en définissant la variable d'environnement PORT.
 
