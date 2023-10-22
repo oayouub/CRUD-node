@@ -3,8 +3,9 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const port = 3000;
-// console.log('url', process.env.MONGODB_URI)
 const mongoose = require('mongoose');
+
+//MONGODB_URL is in a .env file added to .gitignore to avoid sharing the password
 mongoose.connect(`${process.env.MONGODB_URL}`, {useNewUrlParser: true})
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => console.log(err));
